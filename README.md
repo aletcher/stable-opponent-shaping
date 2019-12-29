@@ -5,7 +5,7 @@ Apply this optimizer and compare with other algorithms including Naive Learning 
 
 The notebook runs in ~5 minutes with GPU accelerator enabled in colab. Use this link to open directly: https://colab.research.google.com/github/aletcher/stable-opponent-shaping/blob/master/stable_opponent_shaping.ipynb
 
-Please consider citing our paper if you use this code:
+Please consider citing our paper if you use this code:  
 @inproceedings{letcher,  
 title={Stable Opponent Shaping in Differentiable Games},  
 author={Alistair Letcher and Jakob Foerster and David Balduzzi and Tim Rocktäschel and Shimon Whiteson},  
