@@ -31,7 +31,17 @@
   year={2018}  
 }
 
-@article{eg,  
+@inproceedings{eg_original, 
+  title = {The extragradient method for finding saddle points and other problems},
+  author = {Korpelevich, G. M.},
+  journal = {Matekon : translations of Russian & East European mathematical economics},
+  volume = {13},
+  number = {4},
+  pages = {35--49},
+  year = {1977}
+}
+
+@article{eg_2019,  
   title={A Tight and Unified Analysis of Extragradient for a Whole Spectrum of Differentiable Games},  
   author={Azizian, Wa{\"\i}ss and Mitliagkas, Ioannis and Lacoste-Julien, Simon and Gidel, Gauthier},  
   journal={arXiv preprint arXiv:1906.05945},  
